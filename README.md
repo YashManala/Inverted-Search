@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inverted Search – VS Code C Project
 
 This project implements the method in the supplied **InvertedSearch** specification:
@@ -123,3 +124,7 @@ The exact display order is based on the filenames in `filelist.txt`.
 **Program says database is empty**: Choose option `1` before Display or Search.
 
 **File appears twice in filelist**: Remove duplicate lines from `data/filelist.txt` before rebuilding.
+=======
+# Inverted-Search
+Inverted Search Engine using C Programming and Data Structures
+>>>>>>> 3e05589a11005eb3b07c2be20a9327c232d26523
