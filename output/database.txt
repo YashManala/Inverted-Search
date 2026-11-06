@@ -1,0 +1,30 @@
+# INVERTED INDEX DATABASE
+# WORD | FILE_COUNT | FILENAME:OCCURRENCES
+Data | 1 | data/file2.txt:1
+Hello | 1 | data/file1.txt:2
+Hi | 2 | data/file1.txt:6, data/file2.txt:2
+I | 1 | data/file2.txt:2
+Inverted | 1 | data/file2.txt:1
+Manala | 1 | data/file2.txt:1
+Search | 1 | data/file2.txt:2
+Structures | 1 | data/file2.txt:1
+This | 1 | data/file2.txt:1
+Yash | 1 | data/file2.txt:1
+a | 1 | data/file2.txt:1
+am | 1 | data/file2.txt:2
+are | 1 | data/file1.txt:1
+file | 1 | data/file2.txt:2
+find | 1 | data/file2.txt:1
+hello | 1 | data/file1.txt:1
+how | 1 | data/file1.txt:1
+is | 1 | data/file2.txt:2
+learning | 1 | data/file2.txt:1
+my | 1 | data/file2.txt:1
+need | 1 | data/file2.txt:1
+project | 1 | data/file2.txt:1
+this | 1 | data/file2.txt:2
+to | 1 | data/file2.txt:1
+two | 1 | data/file2.txt:1
+when | 1 | data/file2.txt:1
+word | 1 | data/file2.txt:1
+you | 2 | data/file1.txt:1, data/file2.txt:1

@@ -1,0 +1,4 @@
+Hi this is file two. Search this file when you need to find a word.
+Hi I am Yash Manala
+I am learning Data Structures
+This is my Inverted Search project
